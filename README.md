@@ -20,7 +20,7 @@ and the Flutter guide for
 
 ## Getting started
 
-First, add flutter_native_splash as a dependency in your pubspec.yaml file.
+First, add number_to_any_words as a dependency in your pubspec.yaml file.
 ```dart
 dependencies:
   number_to_any_words: ^0.0.1
